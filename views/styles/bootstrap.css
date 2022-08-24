@@ -1045,7 +1045,7 @@ ol {
           user-select: none;
   vertical-align: middle;
   text-align: center;
-  padding: 10px 30px;
+  padding: 28px 50px;
   border-radius: 0;
   align-self: flex-start;
 }
@@ -36663,14 +36663,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-2 tr:nth-child(even)
         {
             color: #ffffff;
-            background-color: #1b1a44;
+            background-color: #1B1A33;
         }
 
         .u-button-style.u-custom-color-2,
         .u-button-style.u-custom-color-2[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: #1b1a44 !important;
+            background-color: #1B1A33 !important;
         }
 
         .u-button-style.u-custom-color-2:hover,
@@ -36710,11 +36710,11 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > a.u-button-style.u-button-style.u-active-custom-color-2[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: #1b1a44 !important;
+            background-color: #1B1A33 !important;
         }
 
         a.u-link.u-hover-custom-color-2:hover {
-            color: #1b1a44 !important;
+            color: #1B1A33 !important;
         }
 
         
@@ -36836,14 +36836,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-border-custom-color-2,
         .u-separator-custom-color-2:after
         {
-            border-color: #1b1a44;
-            stroke: #1b1a44;
+            border-color: #1B1A33;
+            stroke: #1B1A33;
         }
 
         .u-button-style.u-border-custom-color-2
         {
-            border-color: #1b1a44 !important;
-            color: #1b1a44 !important;
+            border-color: #1B1A33 !important;
+            color: #1B1A33 !important;
             background-color: transparent !important;
         }
 
@@ -36866,13 +36866,13 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.active > .u-border-active-custom-color-2,
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-2
         {
-            color: #1b1a44 !important;
-            border-color: #1b1a44 !important;
+            color: #1B1A33 !important;
+            border-color: #1B1A33 !important;
         }
 
         .u-link.u-border-custom-color-2[class*="u-border-"]
         {
-            border-color: #1b1a44 !important;
+            border-color: #1B1A33 !important;
         }
 
         .u-link.u-border-custom-color-2[class*="u-border-"]:hover
@@ -37001,7 +37001,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-2,
         a.u-button-style.u-text-custom-color-2[class*="u-border-"]
         {
-            color: #1b1a44 !important;
+            color: #1B1A33 !important;
         }
 
         a.u-button-style.u-text-custom-color-2:hover,
@@ -37037,7 +37037,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-popupmenu-items.u-text-hover-custom-color-2 .u-nav-link:hover,
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-2 .u-nav-link.active
         {
-            color: #1b1a44 !important;
+            color: #1B1A33 !important;
         }
 
         .u-text-custom-color-2 .u-svg-link,
@@ -37046,7 +37046,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-button-style.active > .u-text-active-custom-color-2 .u-svg-link,
         .u-text-hover-custom-color-2:focus .u-svg-link
         {
-            fill: #1b1a44;
+            fill: #1B1A33;
         }
 
         .u-link.u-text-custom-color-2:hover
@@ -37056,7 +37056,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
         a.u-link.u-text-hover-custom-color-2:hover
         {
-            color: #1b1a44 !important;
+            color: #1B1A33 !important;
         }
         
         
@@ -37245,8 +37245,8 @@ a.u-link.u-text-hover-grey-90:hover {
         font-weight: 400;
         font-size: 3rem;
         line-height: 1.1;
-        margin-top: 20px;
-        margin-bottom: 20px;
+        margin-top: 50px;
+        margin-bottom: 70px;
         }
         h2:not(.u-subtitle)
         {
