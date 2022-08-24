@@ -1,2 +1,0 @@
-# landiego
-Landing de diego
